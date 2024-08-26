@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arksohail
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Angular 8+
+- 👀 I’m a Front End Developer
+- 🌱 I’m in love with Angular 8+
 - 📫 You can mail me at arksohail@gmail.com ...
 
 <!---
